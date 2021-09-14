@@ -1,0 +1,20 @@
+#jumb, #jumb1 {
+    color: goldenrod;
+}
+
+#jumb1 {
+    text-transform: uppercase;
+}
+
+body {
+    background-color: rgba(255, 255, 128, .5);
+}
+
+.contact-clean {
+    width: 30%;
+    margin: auto;
+}
+
+#send {
+    width: 100%;
+}
